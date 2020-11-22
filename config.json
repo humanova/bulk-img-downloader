@@ -1,0 +1,8 @@
+{
+  "url" : "https://url/to/file/%s.png",
+  "startIdx" : 1,
+  "stopIdx" : 10,
+  "extension" : "png",
+  "makepdf" : true,
+  "generateuuid" : false
+}
